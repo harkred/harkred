@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harkred
+- 👋 Hi, I’m Harkeerat Singh
 - 👀 I’m interested in programming.
 - 🌱 I’m currently a programming enthuiast attending university.
 - 💞️ I’m looking to collaborate on any project. Feel free to contact me.
