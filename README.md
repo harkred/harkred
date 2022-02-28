@@ -1,4 +1,4 @@
-Hi, I am Harkeerat Singh, a programming enthuiast aspiring to be a web developer. I am currently attending a university in bachelors of engineering degree. I hope to connect with other people with similar interests. Here are some different ways to connect with me.
+Hi, I am Harkeerat Singh, a programming enthuiast aspiring to be a web developer. I am currently attending a university pursuing bachelors of engineering degree. I hope to connect with other people with similar interests. Here are some different ways to connect with me.
   
   Linkedin: https://www.linkedin.com/in/harkeerat-singh-a92530213/
   
