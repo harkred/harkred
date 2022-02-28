@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @harkred
-- 👀 I’m interested in programming, learning(anything), movies(horror, comedy), books(fiction, academic), music(electro, pop)
-- 🌱 I’m currently learning web-dev (self)
-- 💞️ I’m looking to collaborate on any project. Feel free to contribute to some of my open source projects.
-- 📫 How to reach me:-
+- 👀 I’m interested in programming.
+- 🌱 I’m currently a programming enthuiast attending university.
+- 💞️ I’m looking to collaborate on any project. Feel free to contact me.
+- 📫 My Contacts
   
   Discord: HarkRed#0058
+  
+  Linkedin: https://www.linkedin.com/in/harkeerat-singh-a92530213/
+  
+  Instagram: https://www.instagram.com/olds_spaghetti/
+  
+- Feel free to visit my website: https://harkred.github.io/Portfolio-Page/
