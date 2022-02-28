@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Harkeerat Singh
-- 👀 I’m interested in programming.
-- 🌱 I’m currently a programming enthuiast attending university.
-- 💞️ I’m looking to collaborate on any project. Feel free to contact me.
-- 📫 My Contacts
+Hi, I am Harkeerat Singh, a programming enthuiast aspiring to be a web developer. I am currently attending a university in bachelors of engineering degree. I hope to connect with other people with similar interests. Here are some different ways to connect with me.
   
   Linkedin: https://www.linkedin.com/in/harkeerat-singh-a92530213/
   
   Instagram: https://www.instagram.com/olds_spaghetti/
   
-- Feel free to visit my website: https://harkred.github.io/Portfolio-Page/
+Feel free to visit my website: https://harkred.github.io/Portfolio-Page/
