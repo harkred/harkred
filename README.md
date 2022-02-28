@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on any project. Feel free to contact me.
 - 📫 My Contacts
   
-  Discord: HarkRed#0058
-  
   Linkedin: https://www.linkedin.com/in/harkeerat-singh-a92530213/
   
   Instagram: https://www.instagram.com/olds_spaghetti/
